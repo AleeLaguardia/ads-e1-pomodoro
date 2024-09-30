@@ -4,7 +4,7 @@
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 1. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 
 
-<img src="/assets/prototype-screenshot/image-baixa-fidelidade.jpeg">
+<img src="/assets/image-baixa-fidelidade.jpeg">
 
 Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
 Conteúdo - apresenta o conteúdo da tela em questão;
