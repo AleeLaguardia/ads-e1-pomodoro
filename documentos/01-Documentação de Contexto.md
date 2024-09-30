@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * Alexandre Laguardia Pereira Júnior
-* Bruna Brici Alvarenga Sampaio
+* Bruna Brici0 Alvarenga Sampaio
 * Frederico Vieira
 ### Orientador
 * Edwaldo Soares Rodrigues
@@ -54,78 +54,6 @@ busquem melhorar sua produtividade. É importante entender que nem todos terão
 familiaridade com a técnica, por esse motivo a interface da aplicação é intuitiva, simples e
 acessível para diferentes níveis de conhecimento do método e tecnológico.
 
-# Metodologia
-Como opção escolhida para o projeto, foi-se escolhida a metodologia ágil de SCRUM, afim de obter melhores resultados com resultado final e tempo de entrega.
-
-## Divisão de papéis
-* Scrum Master: Alexandre Laguardia Pereira Junior
-* Product Owner: Frederico Vieira
-* Equipe de Desenvolvimento: Frederico Vieira, Alexandre Laguardia Pereira Junior, Bruna Brici Alvarenga Sampaio
-* Equipe de Design: Bruna Brici Alvarenga Sampaio
-## Processo
-## Ferramentas
-
-# Especificação do Projeto
-
-## Requisitos Funcionais
-* RF- 01 Ter definidos os intervalos de tempo baseados no método pomodoro
-
-* RF- 02 Ter cada ciclo definido e implementado. Serão 5 ciclos (4 ciclos de 25 minutos de estudo + 5 minutos de descanso e 1 ciclo de descanso de 15 a 30 minutos)
-* RF- 03 Ter implementado um aviso sonoro, com a finalidade de avisar ao usuário sobre o tempo decorrido
-
-* RF- 04 Implementar áudio de meditação durante o maior intervalo
-
-* RF-05 Implementar navegação entre telas para melhorar a experiência de usuário
-
-## Requisitos não funcionais
-
-* RNF-01 Ter um design claro e simples Alta
-
-* RNF- 02 Ter um design responsivo de acordo com a tela
-
-* RNF-03 Não haver obesidade de informação devido à complexidade do projeto
-
-
-# Especificação do Projeto
-Perfil: Pessoa
-
-Descrição: Pessoas que buscam aumentar a produtividade pessoal utilizando a
-técnica Pomodoro para gerenciar suas tarefas diárias.
-
-Necessidades:
-- Iniciar e pausar o timer Pomodoro.
-- Escolher a duração dos descansos.
-- Visualizar o tempo restante de cada ciclo.
-- Ser alertado quando termina os ciclos,
-____________
-Perfil Estudante
-
-Descrição: Estudantes que utilizam a técnica Pomodoro para organizar sessões de estudo e pausas.
-
-Necessidades: - Iniciar e pausar o timer Pomodoro.
-- Escolher a duração dos descansos.
-- Visualizar o tempo restante de cada ciclo.
-- Ser alertado quando termina os ciclos,
-____________
-Perfil Profissional
-
-Descrição: Profissionais que desejam gerenciar seu tempo de trabalho de forma eficiente, dividindo tarefas em blocos Pomodoro.
-
-Necessidades:
-- Iniciar e pausar o timer Pomodoro.
-- Escolher a duração dos descansos.
-- Visualizar o tempo restante de cada ciclo
-- Ser alertado quando termina os ciclos
-
-# Projeto de Interface
-
-Abaixo, é possível encontrar o link para o protótipo do projeto pomodoro, com todas as suas telas, afim de manter a confiabilidade de design.
-
-https://www.figma.com/design/suKPgzRLD5wjcjCpec5Oh1/Pomodoro-Timer?node-id=0-1&node-type=canvas&t=uLz4KaKj8BxKemOJ-0
-
-<img src="/assets/prototype-screenshot/image-01.jpeg">
-<img src="/assets/prototype-screenshot/image-02.jpeg">
-<img src="/assets/prototype-screenshot/image-03.jpeg">
 <img src="/assets/prototype-screenshot/image-04.jpeg">
 <img src="/assets/prototype-screenshot/image-05.jpeg">
 
