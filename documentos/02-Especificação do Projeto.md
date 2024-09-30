@@ -45,4 +45,4 @@ Pessoa: Visualizar o tempo restante durante cada sessão - Acompanhar meu progre
 
 * RNF- 02 Ter um design responsivo de acordo com a tela
 
-* RNF-03 Não haver obesidade de informação devido à complexidade do projeto
+* RNF-03 Não haver obesidade de informação devido à complexidade do projeto.
