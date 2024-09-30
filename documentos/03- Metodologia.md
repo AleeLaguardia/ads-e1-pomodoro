@@ -1,8 +1,8 @@
-#Metodologia
-#Gerenciamento de Projeto
+# Metodologia
+#G erenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
-Divisão de Papéis
+# Divisão de Papéis
 Desta forma, a equipe está organizada da seguinte maneira:
 
 Scrum Master: Alexandre Laguardia Pereira Júnior
@@ -20,3 +20,4 @@ O quadro kanban do grupo no GitHub está disponível no link https://airtable.co
 <img src="/assets/prototype-screenshot/image-06.jpeg">
 
 #Ferramentas
+A ferramenta utilizada para o gerenciamento de tarefas foi o Airtable: https://airtable.com/appepPI9dYTTPkfYn/pag7QZBkcJMLTvwNM
