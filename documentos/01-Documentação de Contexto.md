@@ -53,14 +53,3 @@ O público-alvo da aplicação será estudantes, profissionais e quaisquer pesso
 busquem melhorar sua produtividade. É importante entender que nem todos terão
 familiaridade com a técnica, por esse motivo a interface da aplicação é intuitiva, simples e
 acessível para diferentes níveis de conhecimento do método e tecnológico.
-
-<img src="/assets/prototype-screenshot/image-04.jpeg">
-<img src="/assets/prototype-screenshot/image-05.jpeg">
-
-# Referências Bibliográficas
-
-https://www.pomodorotechnique.com/
-
-https://www.w3schools.com/
-
-https://developer.mozilla.org/pt-BR/
