@@ -8,7 +8,7 @@
 ### Orientador
 * Edwaldo Soares Rodrigues
 
-# Projeto 
+# Documentação de Contexto  
 
 ## Introdução
 Objetivo é criar uma aplicação web baseada no método Pomodoro, essa técnica é
@@ -53,6 +53,17 @@ O público-alvo da aplicação será estudantes, profissionais e quaisquer pesso
 busquem melhorar sua produtividade. É importante entender que nem todos terão
 familiaridade com a técnica, por esse motivo a interface da aplicação é intuitiva, simples e
 acessível para diferentes níveis de conhecimento do método e tecnológico.
+
+# Metodologia
+Como opção escolhida para o projeto, foi-se escolhida a metodologia ágil de SCRUM, afim de obter melhores resultados com resultado final e tempo de entrega.
+
+## Divisão de papéis
+* Scrum Master: Alexandre Laguardia Pereira Junior
+* Product Owner: Frederico Vieira
+* Equipe de Desenvolvimento: Frederico Vieira, Alexandre Laguardia Pereira Junior, Bruna Brici Alvarenga Sampaio
+* Equipe de Design: Bruna Brici Alvarenga Sampaio
+## Processo
+## Ferramentas
 
 # Especificação do Projeto
 
@@ -100,7 +111,28 @@ Perfil Profissional
 
 Descrição: Profissionais que desejam gerenciar seu tempo de trabalho de forma eficiente, dividindo tarefas em blocos Pomodoro.
 
-Necessidades: - Iniciar e pausar o timer Pomodoro.
+Necessidades:
+- Iniciar e pausar o timer Pomodoro.
 - Escolher a duração dos descansos.
 - Visualizar o tempo restante de cada ciclo
 - Ser alertado quando termina os ciclos
+
+# Projeto de Interface
+
+Abaixo, é possível encontrar o link para o protótipo do projeto pomodoro, com todas as suas telas, afim de manter a confiabilidade de design.
+
+https://www.figma.com/design/suKPgzRLD5wjcjCpec5Oh1/Pomodoro-Timer?node-id=0-1&node-type=canvas&t=uLz4KaKj8BxKemOJ-0
+
+<img src="/assets/prototype-screenshot/image-01.jpeg">
+<img src="/assets/prototype-screenshot/image-02.jpeg">
+<img src="/assets/prototype-screenshot/image-03.jpeg">
+<img src="/assets/prototype-screenshot/image-04.jpeg">
+<img src="/assets/prototype-screenshot/image-05.jpeg">
+
+# Referências Bibliográficas
+
+https://www.pomodorotechnique.com/
+
+https://www.w3schools.com/
+
+https://developer.mozilla.org/pt-BR/
