@@ -1,5 +1,6 @@
 # Método Pomodoro
-# Análise e Desenvolvimento de Sistemas - PUC Minas
+
+Análise e Desenvolvimento de Sistemas - PUC Minas
 
 # Desenvolvimento de aplicação web front-end
 
