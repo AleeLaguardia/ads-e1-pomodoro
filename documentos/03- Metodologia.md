@@ -17,7 +17,7 @@ To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.
 In progress: lista das tarefas iniciadas.
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 O quadro kanban do grupo no GitHub está disponível no link https://airtable.com/appepPI9dYTTPkfYn/pag7QZBkcJMLTvwNM e é apresentado, no estado atual, na figura abaixo: 
-<img src="/assets/prototype-screenshot/image-06.jpeg">
+<img src="/assets/prototype-screenshot/Captura de tela 2024-09-29 222450.png">
 
 #Ferramentas
 A ferramenta utilizada para o gerenciamento de tarefas foi o Airtable: https://airtable.com/appepPI9dYTTPkfYn/pag7QZBkcJMLTvwNM
