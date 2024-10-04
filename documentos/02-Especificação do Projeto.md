@@ -1,33 +1,35 @@
 # Especificação do Projeto
 
-# Perfis de Usuários
-# Perfil Pessoa
+## Perfis de Usuários
 Descrição: Pessoas que buscam aumentar a produtividade pessoal utilizando a
 técnica Pomodoro para gerenciar suas tarefas diárias.
-# Necessidades: - Iniciar e pausar o timer Pomodoro.
+## Necessidades: - Iniciar e pausar o timer Pomodoro.
 - Escolher a duração dos descansos.
 - Visualizar o tempo restante de cada ciclo.
 - Ser alertado quando termina os ciclos,
-# Perfil Estudante
+## Perfil Estudante
 Descrição: Estudantes que utilizam a técnica Pomodoro para organizar sessões de
 estudo e pausas.
 Necessidades: - Iniciar e pausar o timer Pomodoro.
 - Escolher a duração dos descansos.
 - Visualizar o tempo restante de cada ciclo.
 - Ser alertado quando termina os ciclos,
-# Perfil Profissional
+## Perfil Profissional
 Descrição: Profissionais que desejam gerenciar seu tempo de trabalho de forma
 eficiente, dividindo tarefas em blocos Pomodoro.
 Necessidades: - Iniciar e pausar o timer Pomodoro.
 - Escolher a duração dos descansos.
 - Visualizar o tempo restante de cada ciclo.
 - Ser alertado quando termina os ciclos,
-# Histórias de usuários
-Eu como … [QUEM] … quero/desejo …[O QUE] … para ....[PORQUE]
-Pessoa:  Iniciar e pausar o timer - Pomodoro - Gerenciar melhor o tempo dedicado às minhas tarefas
-Estudante: Escolher a duração do descanso Adaptar o método Pomodoro às minhas necessidades
-Profissional: Receber alerta ao término de cada sessão. - Manter-me focado e serlembrado de fazer pausas regulares
-Pessoa: Visualizar o tempo restante durante cada sessão - Acompanhar meu progresso em tempo real
+## Histórias de usuários
+
+| Quem        | O que                                      | Por que                                          |
+|-------------|--------------------------------------------|--------------------------------------------------|
+| Pessoa      | Iniciar e pausar o timer                   | Gerenciar melhor o tempo dedicado às minhas tarefas |
+| Estudante   | Escolher a duração do descanso             | Adaptar o método Pomodoro às minhas necessidades  |
+| Profissional| Receber alerta ao término de cada sessão   | Manter-me focado e ser lembrado de fazer pausas regulares |
+| Pessoa      | Visualizar o tempo restante durante cada sessão | Acompanhar meu progresso em tempo real         |
+
 
 ## Requisitos Funcionais
 * RF- 01 Ter definidos os intervalos de tempo baseados no método pomodoro
