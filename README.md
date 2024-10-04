@@ -16,11 +16,11 @@ Bruna Bricio Alvarenga Sampaio
 # Orientador:
 Edwaldo Soares Rodrigues
 
-[Documentação de Contexto](documentos/01-Documentação de Contexto.md)
-[Especificação do Projeto](documentos/02-Especificação do Projeto.md)
-[Metodologia](documentos/03- Metodologia.md)
-[Projeto de Interface](documentos/04- Projeto de Interface.md)
-[Referências](documentos/Referencias.md)
+- [Documentação de Contexto](documentos/01-Documentação_de_Contexto.md)
+- [Especificação do Projeto](documentos/02-Especificação_do_Projeto.md)
+- [Metodologia](documentos/03-Metodologia.md)
+- [Projeto de Interface](documentos/04-Projeto_de_Interface.md)
+- [Referências](documentos/Referencias.md)
 
 A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web.
 
