@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * Alexandre Laguardia Pereira Júnior
-* Bruna Brici0 Alvarenga Sampaio
+* Bruna Bricio Alvarenga Sampaio
 * Frederico Vieira
 ### Orientador
 * Edwaldo Soares Rodrigues
