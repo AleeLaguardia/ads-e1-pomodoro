@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-app="Pomodoro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão de Tempo - Temporizador</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./script.js" defer></script>
+</head>
+
+<body>
+    <main class="gestao-tempo-app">
+        <header class="topo">
+            <figure class="logotipo">
+                <img class="imagem-logotipo" src="" alt="">
+            </figure>
+        </header>
+        <section class="container-banner">
+            <h1 class="titulo-app">
+                Temporizador Pomodoro<br>
+                <strong class="slogan">Otimize seu gerenciamento de tempo.</strong>
+            </h1>
+            <figure class="figura-imagem">
+                <img class="imagem-app" src="" alt="">
+            </figure>
+        </section>
+        <section class="container-card">
+            <div class="bloco">
+                <ul class="lista-opcoes">
+                    <li class="item-lista">
+                        <button data-tempo="foco" class="botao-opcao botao-foco ativo">Atividades</button>
+                    </li>
+                    <li class="item-lista">
+                       <button data-tempo="descanso-curto" class="botao-opcao botao-descanso-curto">Pausa Curta</button>
+                    </li>
+                    <li class="item-lista">
+                        <button data-tempo="descanso-longo" class="botao-opcao botao-descanso-longo">Pausa Longa</button>
+                    </li>
+                </ul>
+                <div id="cronometro" class="contador"></div>
+                <ul class="lista-opcoes">
+                    <li class="item-lista">
+                        <label class="interruptor">
+                            <input class="interruptor-checkbox" type="checkbox" id="alterar-musica">
+                            <div class="chave"></div>
+                        </label>
+                    </li>
+                    <li class="item-lista">
+                        <label class="rotulo-musica" for="alterar-musica">
+                            Ativar Música
+                        </label>
+                    </li>
+                </ul>
+                <div class="container-botao-principal">
+                    <button id="comecar" class="botao-principal">
+                        <img class="icone-botao" src="" alt="">
+                        <span>Iniciar</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <section class="container-tarefas">
+            <div class="conteudo-tarefas">
+                <header class="tarefas-ativas">
+                    <p class="rotulo-tarefas">#Tarefas em Progresso:</p>
+                    <p class="descricao-tarefas"></p>
+                </header>
+                <div class="cabecalho-tarefas">
+                    <h2 class="titulo-tarefas">Lista de Atividades:</h2>
+                    <div class="menu-opcoes">
+                        <button class="botao-mais-opcoes">
+                            <img src="" alt="">
+                        </button>
+                        <ul class="lista-opcoes-tarefas">
+                            <li class="item-opcao-tarefas">
+                                <button class="botao-limpar-tarefas" id="remover-completas">
+                                    <img src="" alt="">
+                                    Excluir Concluídas
+                                </button>
+                            </li>
+                            <li class="item-opcao-tarefas">
+                                <button class="botao-limpar-tarefas" id="remover-todas">
+                                    <img src="" alt="">
+                                    Excluir Todas
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <ul class="lista-tarefas"></ul>
+                <form class="formulario-tarefas oculto" aria-hidden="true">
+                    <div class="campo-formulario">
+                        <label class="rotulo-formulario">
+                            Nova Tarefa
+                        </label>
+                        <textarea required rows="4" class="caixa-texto"
+                            placeholder="Descreva sua tarefa"></textarea>
+                    </div>
+                    <footer class="rodape-formulario">
+                        <button type="button" class="botao-acao botao-deletar">
+                            <img src="" alt=""> Remover
+                        </button>
+                        <div class="divisor"></div>
+                        <button type="button" class="botao-acao botao-cancelar">
+                            <img src="" alt=""> Cancelar
+                        </button>
+                        <button class="botao-acao botao-salvar">
+                            <img src="" alt=""> Salvar
+                        </button>
+                    </footer>
+                </form>
+                <button class="botao-nova-tarefa">
+                    <img src="" alt=""> Adicionar Tarefa
+                </button>
+            </div>
+        </section>
+
+        <footer class="rodape">
+            <p class="texto-rodape">
+                <br>Trabalho desenvolvido por Alexandre Laguardia, Bruna Bricio, Frederico Vieira e Hugo Vaz.
+            </p>
+        </footer>
+    </main>
+
+</body>
+
+</html>
+
